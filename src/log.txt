@@ -1,0 +1,177 @@
+[Cppmon] 14 06 2015 - 23.48
+[Cppmon] comincia la partita Ludovico vs Giuseppe
+[Ludovico] mostri : Sauro Drago
+[Ludovico] Manda in campo : Sauro
+[Giuseppe] mostri : Aquila Leone
+[Giuseppe] Manda in campo : Aquila
+[Cppmon] turn : 0
+[Sauro] PS : 80
+[Aquila] PS : 83
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD aumentano da 75 a 150
+[Sauro] Nuovi PS 80
+[Sauro] Nuovi PS 80
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 27 PS
+[Aquila] Nuovi PS 56
+[Cppmon] turn : 1
+[Sauro] PS : 80
+[Aquila] PS : 56
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD aumentano da 150 a 300
+[Sauro] Nuovi PS 80
+[Sauro] Nuovi PS 80
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 11 PS
+[Aquila] Nuovi PS 45
+[Cppmon] turn : 2
+[Sauro] PS : 80
+[Aquila] PS : 45
+[Aquila] Sorteggiato l’attacco con priorità Rafforzatore
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rafforzatore
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD dovrebbero aumentare da 300 a 1200 ma non possono aumentare oltre 600
+[Aquila] Nuovi PD 600
+[Sauro] Nuovi PS 80
+[Sauro] Nuovi PS 80
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS 39
+[Cppmon] turn : 3
+[Sauro] PS : 80
+[Aquila] PS : 39
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD dovrebbero aumentare da 600 a 1200 ma non possono aumentare oltre 600
+[Aquila] Nuovi PD 600
+[Sauro] Nuovi PS 80
+[Sauro] Nuovi PS 80
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS 33
+[Cppmon] turn : 4
+[Sauro] PS : 80
+[Aquila] PS : 33
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Focus
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD dovrebbero aumentare da 600 a 1200 ma non possono aumentare oltre 600
+[Aquila] Nuovi PD 600
+[Sauro] Nuovi PS 80
+[Sauro] Nuovi PS 80
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 5 PS
+[Aquila] Nuovi PS 28
+[Cppmon] turn : 5
+[Sauro] PS : 80
+[Aquila] PS : 28
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] attacca con Rapido a infliggendo all’avversario un danno di 15 PS
+[Sauro] Nuovi PS 65
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS 22
+[Cppmon] turn : 6
+[Sauro] PS : 65
+[Aquila] PS : 22
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] attacca con Rapido a infliggendo all’avversario un danno di 18 PS
+[Sauro] Nuovi PS 47
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 5 PS
+[Aquila] Nuovi PS 17
+[Cppmon] turn : 7
+[Sauro] PS : 47
+[Aquila] PS : 17
+[Aquila] Sorteggiato l’attacco con priorità Rafforzatore
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rafforzatore
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] I PD dovrebbero aumentare da 600 a 2400 ma non possono aumentare oltre 600
+[Aquila] Nuovi PD 600
+[Sauro] Nuovi PS 47
+[Sauro] Nuovi PS 47
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS 11
+[Cppmon] turn : 8
+[Sauro] PS : 47
+[Aquila] PS : 11
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco senza priorità Pugno
+[Aquila] Velocità 101
+[Sauro] Velocità 80
+[Aquila] attacca con Pugno a infliggendo all’avversario un danno di 45 PS
+[Sauro] Nuovi PS 2
+[Sauro] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS 5
+[Cppmon] turn : 9
+[Sauro] PS : 2
+[Aquila] PS : 5
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Sauro] Scelto l’attacco senza priorità Pugno
+[Aquila] attacca con Rapido a infliggendo all’avversario un danno di 18 PS
+[Sauro] Nuovi PS -16
+[Sauro] è morto
+[Cppmon] turn : 10
+[Drago] PS : 78
+[Aquila] PS : 5
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Drago] Scelto l’attacco senza priorità Pugno
+[Aquila] Sorteggiato l’attacco con priorità Rapido
+[Drago] Scelto l’attacco senza priorità Pugno
+[Aquila] attacca con Rapido a infliggendo all’avversario un danno di 19 PS
+[Drago] Nuovi PS 59
+[Drago] Contrattacca con Pugno a infliggendo all’avversario un danno di 6 PS
+[Aquila] Nuovi PS -1
+[Aquila] è morto
+[Cppmon] turn : 11
+[Drago] PS : 59
+[Leone] PS : 55
+[Leone] Sorteggiato l’attacco con priorità Rafforzatore
+[Drago] Scelto l’attacco senza priorità Pugno
+[Leone] Sorteggiato l’attacco con priorità Rafforzatore
+[Drago] Scelto l’attacco senza priorità Pugno
+[Leone] I PD aumentano da 45 a 180
+[Drago] Nuovi PS 59
+[Drago] Nuovi PS 59
+[Drago] Contrattacca con Pugno a infliggendo all’avversario un danno di 21 PS
+[Leone] Nuovi PS 34
+[Cppmon] turn : 12
+[Drago] PS : 59
+[Leone] PS : 34
+[Leone] Sorteggiato l’attacco con priorità Rafforzatore
+[Drago] Scelto l’attacco senza priorità Pugno
+[Leone] Sorteggiato l’attacco con priorità Rafforzatore
+[Drago] Scelto l’attacco senza priorità Pugno
+[Leone] I PD dovrebbero aumentare da 180 a 720 ma non possono aumentare oltre 360
+[Leone] Nuovi PD 360
+[Drago] Nuovi PS 59
+[Drago] Nuovi PS 59
+[Drago] Contrattacca con Pugno a infliggendo all’avversario un danno di 10 PS
+[Leone] Nuovi PS 24
+[Cppmon] turn : 13
+[Drago] PS : 59
+[Leone] PS : 24
+[Drago] Scelto l’attacco senza priorità Pugno
+[Leone] Sorteggiato l’attacco senza priorità IperPugno
+[Leone] Velocità 120
+[Drago] Velocità 100
+[Leone] attacca con IperPugno a infliggendo all’avversario un danno di 186 PS
+[Leone] I PV diminuiscono da 120 a 30
+[Drago] Nuovi PS -127
+[Drago] Nuovi PS -127
+[Drago] è morto
+[Ludovico] Non ha mostri per sostituire Drago
+[Cppmon] 14 06 2015 - 23.49
+[Cppmon] Si conclude la partita con la vittoria di Giuseppe
